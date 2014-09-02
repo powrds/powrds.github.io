@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[POWRDS]]></title>
-  <link href="http://powrds.github.io/atom.xml" rel="self"/>
-  <link href="http://powrds.github.io/"/>
-  <updated>2014-09-01T22:46:10-05:00</updated>
-  <id>http://powrds.github.io/</id>
+  <link href="http://powrds.com/atom.xml" rel="self"/>
+  <link href="http://powrds.com/"/>
+  <updated>2014-09-02T08:52:55-05:00</updated>
+  <id>http://powrds.com/</id>
   <author>
     <name><![CDATA[Benjamin Gandhi-Shepard]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[“Awesome”]]></title>
-    <link href="http://powrds.github.io/blog/2014/09/01/awesome/"/>
+    <link href="http://powrds.com/blog/2014/09/01/awesome/"/>
     <updated>2014-09-01T22:30:25-05:00</updated>
-    <id>http://powrds.github.io/blog/2014/09/01/awesome</id>
+    <id>http://powrds.com/blog/2014/09/01/awesome</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
